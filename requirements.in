@@ -1,0 +1,5 @@
+pydantic
+html2text
+mysql-connector-python
+rich
+python-slugify
